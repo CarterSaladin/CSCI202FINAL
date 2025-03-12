@@ -206,13 +206,3 @@ iframe{
     height: 100%;
     object-fit: cover;
 }
-
-/* footer */
-footer{
-    background-color: #1a1a1a;
-    color: white;
-}
-footer a{
-    color: white;
-}
-    
